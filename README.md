@@ -1,4 +1,18 @@
-### Hi there 👋
+![Maya's github stats](https://github-readme-stats.vercel.app/api?username=dmica&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=shades-of-purple)
+<br>
+
+<a href="https://github.com/dmica/Data-Visualization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmica&repo=Data-Visualization&theme=shades-of-purple" />
+</a>
+<a href="https://github.com/dmica/candy-roll">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dmica&repo=candy-roll&theme=shades-of-purple" />
+</a>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmica&layout=compact&count_private=true&theme=shades-of-purple)](https://github.com/dmica/github-readme-stats)
+
+
+
 
 <!--
 **dmica/dmica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
