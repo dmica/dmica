@@ -1,4 +1,4 @@
-<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmica&layout=compact&count_private=true&theme=shades-of-purple)](https://github.com/dmica/github-readme-stats)
+<br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmica&layout=compact&count_private=true&theme=shades-of-purple&hide=javascript,blade)](https://github.com/dmica/github-readme-stats)
 
 <br/><br/>https://github.com/anuraghazra/github-readme-stats
 
